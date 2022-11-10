@@ -8,6 +8,7 @@ class Springboot13ConfigurationApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("git拿下来了");
     }
 
 }
